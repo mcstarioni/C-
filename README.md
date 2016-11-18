@@ -1,2 +1,2 @@
-# C-
+# CPP
 My C++ learning repository
